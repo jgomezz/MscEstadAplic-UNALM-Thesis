@@ -13,12 +13,22 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Formulaci\'on de hip\'otesis}{7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Marco Teorico}{8}% 
+\contentsline {chapter}{\numberline {5}Marco Te\'orico}{8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Metodolog\'ia}{9}% 
+\contentsline {section}{\numberline {5.1}Twitter}{8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Cronograma}{10}% 
+\contentsline {section}{\numberline {5.2}Data Mining}{8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Presupuesto}{11}% 
+\contentsline {section}{\numberline {5.3}Text Mining}{9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Colaboradores}{12}% 
+\contentsline {section}{\numberline {5.4}An\'alisis de Sentimiento}{10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.1}T\'ecnicas de An\'alisis de Sentimiento}{10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Metodolog\'ia}{11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Cronograma}{12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Presupuesto}{13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Colaboradores}{14}% 

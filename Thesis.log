@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.19)  19 JUL 2019 14:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.19)  19 JUL 2019 17:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -545,17 +545,43 @@ Cap\'{\i }tulo 4.
 
  (./chapters/5_0_background.tex
 Cap\'{\i }tulo 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
 [8
 
 
 
 
-])
+]
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+[9]
+Overfull \hbox (9.72224pt too wide) in paragraph at lines 58--59
+[]\OT1/cmr/m/n/12 Es el uso del pro-ce-sa-mien-to del len-gua-je na-tu-ral, an^
+^Sali-sis de tex-to y ling^^?a^^S^^Psti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+[10])
 \openout2 = `chapters/6_0_methodogy.aux'.
 
  (./chapters/6_0_methodogy.tex
 Cap\'{\i }tulo 6.
-[9
+[11
 
 
 
@@ -565,7 +591,7 @@ Cap\'{\i }tulo 6.
 
  (./chapters/7_0_schedule.tex
 Cap\'{\i }tulo 7.
-[10
+[12
 
 
 
@@ -575,7 +601,7 @@ Cap\'{\i }tulo 7.
 
  (./chapters/8_0_budget.tex
 Cap\'{\i }tulo 8.
-[11
+[13
 
 
 
@@ -585,7 +611,7 @@ Cap\'{\i }tulo 8.
 
  (./chapters/9_0_collaborators.tex
 Cap\'{\i }tulo 9.
-[12
+[14
 
 
 
@@ -617,10 +643,10 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 9533 strings out of 492616
- 164450 string characters out of 6129481
+ 9540 strings out of 492616
+ 164543 string characters out of 6129481
  443498 words of memory out of 5000000
- 13293 multiletter control sequences out of 15000+600000
+ 13300 multiletter control sequences out of 15000+600000
  10057 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,7n,37p,795b,1852s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -628,10 +654,10 @@ Here is how much of TeX's memory you used:
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Thesis.pdf (13 pages, 260082 bytes).
+Output written on Thesis.pdf (15 pages, 265237 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+ 75 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
