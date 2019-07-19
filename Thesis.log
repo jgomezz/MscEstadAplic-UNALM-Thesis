@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.19)  19 JUL 2019 08:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.19)  19 JUL 2019 14:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -375,15 +375,10 @@ LaTeX Info: Redefining \sptext on input line 14.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
  (./chapters/1_0_introduction.aux)
-(./chapters/2_0_justification.aux
-
-LaTeX Warning: Label `intro' multiply defined.
-
-) (./chapters/3_0_objective.aux
-
-LaTeX Warning: Label `intro' multiply defined.
-
-))
+(./chapters/2_0_justification.aux) (./chapters/3_0_objectives.aux)
+(./chapters/4_0_hyphotesis.aux) (./chapters/5_0_background.aux)
+(./chapters/6_0_methodogy.aux) (./chapters/7_0_schedule.aux)
+(./chapters/8_0_budget.aux) (./chapters/9_0_collaborators.aux))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -398,7 +393,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
- (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count283
 \scratchdimen=\dimen106
@@ -490,7 +486,7 @@ Cap\'{\i }tulo 1.
 File: chapters/img/Ch01_UsoRedesSocialesLima.PNG Graphic file (type png)
 <use chapters/img/Ch01_UsoRedesSocialesLima.PNG>
 Package pdftex.def Info: chapters/img/Ch01_UsoRedesSocialesLima.PNG  used on in
-put line 26.
+put line 25.
 (pdftex.def)             Requested size: 228.70287pt x 198.13889pt.
 [2
 
@@ -501,7 +497,7 @@ put line 26.
 File: chapters/img/Ch01_UsoRedesSocialesGeneracion.PNG Graphic file (type png)
 <use chapters/img/Ch01_UsoRedesSocialesGeneracion.PNG>
 Package pdftex.def Info: chapters/img/Ch01_UsoRedesSocialesGeneracion.PNG  used
- on input line 34.
+ on input line 33.
 (pdftex.def)             Requested size: 340.64682pt x 125.71938pt.
  [3 <./chapters/img/Ch01_UsoRedesSocialesLima.PNG>] [4 <./chapters/img/Ch01_Uso
 RedesSocialesGeneracion.PNG>])
@@ -510,12 +506,12 @@ RedesSocialesGeneracion.PNG>])
  (./chapters/2_0_justification.tex
 Cap\'{\i }tulo 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
+Underfull \hbox (badness 10000) in paragraph at lines 7--11
 
  []
 
@@ -525,9 +521,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--12
 
 
 ])
-\openout2 = `chapters/3_0_objective.aux'.
+\openout2 = `chapters/3_0_objectives.aux'.
 
- (./chapters/3_0_objective.tex
+ (./chapters/3_0_objectives.tex
 Cap\'{\i }tulo 3.
 [6
 
@@ -535,36 +531,96 @@ Cap\'{\i }tulo 3.
 
 
 ])
+\openout2 = `chapters/4_0_hyphotesis.aux'.
 
-LaTeX Warning: Empty bibliography on input line 20.
+ (./chapters/4_0_hyphotesis.tex
+Cap\'{\i }tulo 4.
+[7
 
 
-Package biblatex Warning: Type 'article' not found on input line 25.
 
 
-LaTeX Warning: Empty bibliography on input line 25.
+])
+\openout2 = `chapters/5_0_background.aux'.
+
+ (./chapters/5_0_background.tex
+Cap\'{\i }tulo 5.
+[8
+
+
+
+
+])
+\openout2 = `chapters/6_0_methodogy.aux'.
+
+ (./chapters/6_0_methodogy.tex
+Cap\'{\i }tulo 6.
+[9
+
+
+
+
+])
+\openout2 = `chapters/7_0_schedule.aux'.
+
+ (./chapters/7_0_schedule.tex
+Cap\'{\i }tulo 7.
+[10
+
+
+
+
+])
+\openout2 = `chapters/8_0_budget.aux'.
+
+ (./chapters/8_0_budget.tex
+Cap\'{\i }tulo 8.
+[11
+
+
+
+
+])
+\openout2 = `chapters/9_0_collaborators.aux'.
+
+ (./chapters/9_0_collaborators.tex
+Cap\'{\i }tulo 9.
+[12
+
+
+
+
+])
+
+LaTeX Warning: Empty bibliography on input line 26.
+
+
+Package biblatex Warning: Type 'article' not found on input line 31.
+
+
+LaTeX Warning: Empty bibliography on input line 31.
 
 (./Thesis.aux (./includes/cover.aux)
 LaTeX Info: Redefining \sptext on input line 14.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
  (./chapters/1_0_introduction.aux)
-(./chapters/2_0_justification.aux) (./chapters/3_0_objective.aux))
+(./chapters/2_0_justification.aux) (./chapters/3_0_objectives.aux)
+(./chapters/4_0_hyphotesis.aux) (./chapters/5_0_background.aux)
+(./chapters/6_0_methodogy.aux) (./chapters/7_0_schedule.aux)
+(./chapters/8_0_budget.aux) (./chapters/9_0_collaborators.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were multiply-defined labels.
 
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 9485 strings out of 492616
- 163226 string characters out of 6129481
+ 9533 strings out of 492616
+ 164450 string characters out of 6129481
  443498 words of memory out of 5000000
- 13287 multiletter control sequences out of 15000+600000
+ 13293 multiletter control sequences out of 15000+600000
  10057 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,7n,37p,795b,1852s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -572,10 +628,10 @@ Here is how much of TeX's memory you used:
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Thesis.pdf (7 pages, 256916 bytes).
+Output written on Thesis.pdf (13 pages, 260082 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 69 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
