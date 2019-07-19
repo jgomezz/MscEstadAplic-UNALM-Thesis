@@ -1,0 +1,12 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {spanish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introducci\'on}{2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Justificaci\IeC {\'o}n de la investigaci\'on}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Objetivos de la investigaci\'on}{6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Objetivos Generales}{6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Objetivos Especificos}{6}% 
