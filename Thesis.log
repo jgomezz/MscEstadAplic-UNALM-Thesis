@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.19)  19 JUL 2019 17:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.19)  20 JUL 2019 01:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -358,6 +358,326 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen106
+\pgfutil@tempdimb=\dimen107
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box27
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2019/04/04 v3.1.2 (3.1.2)
+))
+Package: pgf 2019/04/04 v3.1.2 (3.1.2)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2019/04/04 v3.1.2 (3.1.2)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen108
+\pgf@y=\dimen109
+\pgf@xa=\dimen110
+\pgf@ya=\dimen111
+\pgf@xb=\dimen112
+\pgf@yb=\dimen113
+\pgf@xc=\dimen114
+\pgf@yc=\dimen115
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count281
+\c@pgf@countb=\count282
+\c@pgf@countc=\count283
+\c@pgf@countd=\count284
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count285
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2019/04/04 v3.1.2 (3.1.2)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2019/04/04 v3.1.2 (3.1.2)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2019/04/04 v3.1.2 (3.1.2)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfsyssoftpath@smallbuffer@items=\count286
+\pgfsyssoftpath@bigbuffer@items=\count287
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2019/04/04 v3.1.2 (3.1.2)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2019/04/04 v3.1.2 (3.1.2)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen116
+\pgfmath@count=\count288
+\pgfmath@box=\box28
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count289
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@picminx=\dimen117
+\pgf@picmaxx=\dimen118
+\pgf@picminy=\dimen119
+\pgf@picmaxy=\dimen120
+\pgf@pathminx=\dimen121
+\pgf@pathmaxx=\dimen122
+\pgf@pathminy=\dimen123
+\pgf@pathmaxy=\dimen124
+\pgf@xx=\dimen125
+\pgf@xy=\dimen126
+\pgf@yx=\dimen127
+\pgf@yy=\dimen128
+\pgf@zx=\dimen129
+\pgf@zy=\dimen130
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@path@lastx=\dimen131
+\pgf@path@lasty=\dimen132
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@shorten@end@additional=\dimen133
+\pgf@shorten@start@additional=\dimen134
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfpic=\box29
+\pgf@hbox=\box30
+\pgf@layerbox@main=\box31
+\pgf@picture@serial@count=\count290
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgflinewidth=\dimen135
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@pt@x=\dimen136
+\pgf@pt@y=\dimen137
+\pgf@pt@temp=\dimen138
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfarrowsep=\dimen139
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@max=\dimen140
+\pgf@sys@shading@range@num=\count291
+\pgf@shadingcount=\count292
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfexternal@startupbox=\box32
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfnodeparttextbox=\box33
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2019/04/04 v3.1.2 (3.1.2)
+\pgf@nodesepstart=\dimen141
+\pgf@nodesepend=\dimen142
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2019/04/04 v3.1.2 (3.1.2)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2019/04/04 v3.1.2 (3.1.2)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen143
+\pgffor@skip=\dimen144
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2019/04/04 v3.1.2 (3.1.2)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@plot@mark@count=\count293
+\pgfplotmarksize=\dimen145
+)
+\tikz@lastx=\dimen146
+\tikz@lasty=\dimen147
+\tikz@lastxsaved=\dimen148
+\tikz@lastysaved=\dimen149
+\tikzleveldistance=\dimen150
+\tikzsiblingdistance=\dimen151
+\tikz@figbox=\box34
+\tikz@figbox@bg=\box35
+\tikz@tempbox=\box36
+\tikz@tempbox@bg=\box37
+\tikztreelevel=\count294
+\tikznumberofchildren=\count295
+\tikznumberofcurrentchild=\count296
+\tikz@fig@count=\count297
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfmatrixcurrentrow=\count298
+\pgfmatrixcurrentcolumn=\count299
+\pgf@matrix@numberofcolumns=\count300
+)
+\tikz@expandcount=\count301
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen152
+\epsfysize=\dimen153
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip65
+\multirow@cntb=\count302
+\multirow@dima=\skip66
+\bigstrutjot=\dimen154
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen155
+\ar@mcellbox=\box38
+\extrarowheight=\dimen156
+\NC@list=\toks30
+\extratabsurround=\skip67
+\backup@length=\skip68
+\ar@cellbox=\box39
+)
+\everycr=\toks31
+\minrowclearance=\skip69
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count303
+\float@exts=\toks32
+\float@box=\box40
+\@float@everytoks=\toks33
+\@floatcapt=\box41
+)
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
 
@@ -368,8 +688,8 @@ File: spanish.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count281
-\@quotereset=\count282
+\@quotelevel=\count304
+\@quotereset=\count305
 (./Thesis.aux (./includes/cover.aux)
 LaTeX Info: Redefining \sptext on input line 14.
 LaTeX Info: Redefining \. on input line 14.
@@ -381,32 +701,32 @@ LaTeX Info: Redefining \% on input line 14.
 (./chapters/8_0_budget.aux) (./chapters/9_0_collaborators.aux))
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count283
-\scratchdimen=\dimen106
-\scratchbox=\box27
-\nofMPsegments=\count284
-\nofMParguments=\count285
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count286
-\MPscratchDim=\dimen107
-\MPnumerator=\count287
-\makeMPintoPDFobject=\count288
-\everyMPtoPDFconversion=\toks19
+\scratchcounter=\count306
+\scratchdimen=\dimen157
+\scratchbox=\box42
+\nofMPsegments=\count307
+\nofMParguments=\count308
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count309
+\MPscratchDim=\dimen158
+\MPnumerator=\count310
+\makeMPintoPDFobject=\count311
+\everyMPtoPDFconversion=\toks35
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -427,9 +747,9 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \sptext on input line 10.
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
+LaTeX Info: Redefining \sptext on input line 19.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -442,16 +762,17 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Thesis.bbl' not found.
 
 No file Thesis.bbl.
-Package biblatex Info: Reference section=0 on input line 10.
-Package biblatex Info: Reference segment=0 on input line 10.
+Package biblatex Info: Reference section=0 on input line 19.
+Package biblatex Info: Reference segment=0 on input line 19.
+ABD: EveryShipout initializing macros
 \openout2 = `includes/cover.aux'.
 
-(./includes/cover.tex
+ (./includes/cover.tex
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 (Font)              using `OT1/cmr/bx/n' instead on input line 3.
 
-<img/323x386_ESCUDOCOLOR.jpg, id=1, 324.21124pt x 387.4475pt>
+<img/323x386_ESCUDOCOLOR.jpg, id=4, 324.21124pt x 387.4475pt>
 File: img/323x386_ESCUDOCOLOR.jpg Graphic file (type jpg)
 <use img/323x386_ESCUDOCOLOR.jpg>
 Package pdftex.def Info: img/323x386_ESCUDOCOLOR.jpg  used on input line 10.
@@ -470,37 +791,73 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 10.
-)
-\tf@toc=\write4
-\openout4 = `Thesis.toc'.
-
  [1
 
+
+])
+\tf@toc=\write5
+\openout5 = `Thesis.toc'.
+
+ [2] (./Thesis.lof
+LaTeX Info: Redefining \sptext on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+)
+\tf@lof=\write6
+\openout6 = `Thesis.lof'.
+
+ [3
+
+]
+(./Thesis.lot
+LaTeX Info: Redefining \sptext on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+)
+\tf@lot=\write7
+\openout7 = `Thesis.lot'.
+
+ [4
 
 ]
 \openout2 = `chapters/1_0_introduction.aux'.
 
  (./chapters/1_0_introduction.tex
 Cap\'{\i }tulo 1.
-<chapters/img/Ch01_UsoRedesSocialesLima.PNG, id=14, 326.72063pt x 283.0575pt>
-File: chapters/img/Ch01_UsoRedesSocialesLima.PNG Graphic file (type png)
-<use chapters/img/Ch01_UsoRedesSocialesLima.PNG>
-Package pdftex.def Info: chapters/img/Ch01_UsoRedesSocialesLima.PNG  used on in
-put line 25.
-(pdftex.def)             Requested size: 228.70287pt x 198.13889pt.
-[2
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+[5
 
 
 ]
-<chapters/img/Ch01_UsoRedesSocialesGeneracion.PNG, id=19, 681.29532pt x 251.439
+<chapters/img/Ch01_UsoRedesSocialesLima.PNG, id=29, 326.72063pt x 283.0575pt>
+File: chapters/img/Ch01_UsoRedesSocialesLima.PNG Graphic file (type png)
+<use chapters/img/Ch01_UsoRedesSocialesLima.PNG>
+Package pdftex.def Info: chapters/img/Ch01_UsoRedesSocialesLima.PNG  used on in
+put line 24.
+(pdftex.def)             Requested size: 228.70287pt x 198.13889pt.
+<chapters/img/Ch01_UsoRedesSocialesGeneracion.PNG, id=31, 681.29532pt x 251.439
 38pt>
 File: chapters/img/Ch01_UsoRedesSocialesGeneracion.PNG Graphic file (type png)
 <use chapters/img/Ch01_UsoRedesSocialesGeneracion.PNG>
 Package pdftex.def Info: chapters/img/Ch01_UsoRedesSocialesGeneracion.PNG  used
- on input line 33.
+ on input line 34.
 (pdftex.def)             Requested size: 340.64682pt x 125.71938pt.
- [3 <./chapters/img/Ch01_UsoRedesSocialesLima.PNG>] [4 <./chapters/img/Ch01_Uso
-RedesSocialesGeneracion.PNG>])
+ [6 <./chapters/img/Ch01_UsoRedesSocialesLima.PNG> <./chapters/img/Ch01_UsoRede
+sSocialesGeneracion.PNG>])
 \openout2 = `chapters/2_0_justification.aux'.
 
  (./chapters/2_0_justification.tex
@@ -515,7 +872,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--11
 
  []
 
-[5
+[7
 
 
 
@@ -525,7 +882,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--11
 
  (./chapters/3_0_objectives.tex
 Cap\'{\i }tulo 3.
-[6
+[8
 
 
 
@@ -535,7 +892,7 @@ Cap\'{\i }tulo 3.
 
  (./chapters/4_0_hyphotesis.tex
 Cap\'{\i }tulo 4.
-[7
+[9
 
 
 
@@ -546,85 +903,177 @@ Cap\'{\i }tulo 4.
  (./chapters/5_0_background.tex
 Cap\'{\i }tulo 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-[8
+
+Overfull \hbox (4.84663pt too wide) in paragraph at lines 25--25
+[]|\OT1/cmr/m/n/12 Coordinates| 
+ []
+
+
+Overfull \hbox (4.84663pt too wide) in paragraph at lines 25--25
+[]|\OT1/cmr/m/n/12 Coordinates| 
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 25--25
+[]|\OT1/cmr/m/n/12 Coordenadas de la lo-ca-li-za-ci^^Son
+ []
+
+[10
 
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
-[9]
-Overfull \hbox (9.72224pt too wide) in paragraph at lines 58--59
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Overfull \hbox (9.72224pt too wide) in paragraph at lines 85--86
 []\OT1/cmr/m/n/12 Es el uso del pro-ce-sa-mien-to del len-gua-je na-tu-ral, an^
 ^Sali-sis de tex-to y ling^^?a^^S^^Psti-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
-[10])
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+<chapters/img/Ch05_Medhat.PNG, id=57, 832.10875pt x 546.04pt>
+File: chapters/img/Ch05_Medhat.PNG Graphic file (type png)
+<use chapters/img/Ch05_Medhat.PNG>
+Package pdftex.def Info: chapters/img/Ch05_Medhat.PNG  used on input line 95.
+(pdftex.def)             Requested size: 332.8376pt x 218.41212pt.
+[13 <./chapters/img/Ch05_Medhat.PNG>] [14])
 \openout2 = `chapters/6_0_methodogy.aux'.
 
  (./chapters/6_0_methodogy.tex
 Cap\'{\i }tulo 6.
-[11
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+<chapters/img/Ch06_CRISP.PNG, id=65, 671.50874pt x 652.4375pt>
+File: chapters/img/Ch06_CRISP.PNG Graphic file (type png)
+<use chapters/img/Ch06_CRISP.PNG>
+Package pdftex.def Info: chapters/img/Ch06_CRISP.PNG  used on input line 12.
+(pdftex.def)             Requested size: 268.59874pt x 260.97037pt.
+[15
 
 
 
 
-])
+] [16 <./chapters/img/Ch06_CRISP.PNG>]) [17]
 \openout2 = `chapters/7_0_schedule.aux'.
 
  (./chapters/7_0_schedule.tex
 Cap\'{\i }tulo 7.
-[12
+<chapters/img/Ch07_schedule.PNG, id=76, 963.6pt x 511.9125pt>
+File: chapters/img/Ch07_schedule.PNG Graphic file (type png)
+<use chapters/img/Ch07_schedule.PNG>
+Package pdftex.def Info: chapters/img/Ch07_schedule.PNG  used on input line 8.
+(pdftex.def)             Requested size: 433.616pt x 230.35849pt.
+
+Overfull \hbox (43.616pt too wide) in paragraph at lines 8--9
+ [][] 
+ []
+
+[18
 
 
 
-
-])
+ <./chapters/img/Ch07_schedule.PNG>])
 \openout2 = `chapters/8_0_budget.aux'.
 
  (./chapters/8_0_budget.tex
 Cap\'{\i }tulo 8.
-[13
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\OT1/cmr/bx/n/12 Costo
+ []
+
+
+Overfull \hbox (5.19589pt too wide) in paragraph at lines 11--11
+\OT1/cmr/bx/n/12 Unit.($)| 
+ []
+
+
+Overfull \hbox (3.98476pt too wide) in paragraph at lines 11--11
+[]|\OT1/cmr/bx/n/12 Cant.| 
+ []
+
+
+Overfull \hbox (7.38338pt too wide) in paragraph at lines 11--11
+[]|\OT1/cmr/bx/n/12 Subtotal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+\OT1/cmr/m/n/12 tar-je-ta gr^^Safi-ca NVI-DIA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]|\OT1/cmr/m/n/12 Cursos on-li-ne so-bre
+ []
+
+
+Overfull \hbox (2.12363pt too wide) in paragraph at lines 20--20
+[]|\OT1/cmr/bx/n/12 Total| 
+ []
+
+
+Overfull \hbox (49.39894pt too wide) in paragraph at lines 9--22
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[19
 
 
 
 
-])
+] [20])
 \openout2 = `chapters/9_0_collaborators.aux'.
 
  (./chapters/9_0_collaborators.tex
 Cap\'{\i }tulo 9.
-[14
+[21
 
 
 
 
 ])
 
-LaTeX Warning: Empty bibliography on input line 26.
+LaTeX Warning: Empty bibliography on input line 37.
 
 
-Package biblatex Warning: Type 'article' not found on input line 31.
+Package biblatex Warning: Type 'article' not found on input line 42.
 
 
-LaTeX Warning: Empty bibliography on input line 31.
+LaTeX Warning: Empty bibliography on input line 42.
 
 (./Thesis.aux (./includes/cover.aux)
 LaTeX Info: Redefining \sptext on input line 14.
@@ -643,21 +1092,21 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 9540 strings out of 492616
- 164543 string characters out of 6129481
- 443498 words of memory out of 5000000
- 13300 multiletter control sequences out of 15000+600000
+ 19534 strings out of 492616
+ 381342 string characters out of 6129481
+ 633039 words of memory out of 5000000
+ 23055 multiletter control sequences out of 15000+600000
  10057 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,7n,37p,795b,1852s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,48p,812b,1922s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Thesis.pdf (15 pages, 265237 bytes).
+Output written on Thesis.pdf (22 pages, 549215 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 106 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 

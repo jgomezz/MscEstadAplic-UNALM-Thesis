@@ -7,13 +7,40 @@ Se definen las tecnolog\'as y conceptos te\'oricos que se utilizar\'an en el des
 \section{Twitter}
 \setcounter{equation}{0}
 
-Es una plataforma de servicio de microblogging que permite el envi\'o de mensajes de texto en un tamaño m\'aximo de 280 caracteres denominados tweets, los usuarios pueden subscribirse a los tweets de otros usuarios y hacerles seguimientos, esta acci\'on es conocida como seguidores o followers. Por defecto los mensajes son p\'ublicos y pueden contener la zona geogr\'afica de la persona que ha enviado el tweet. 
+Es una plataforma de servicio de microblogging que permite el envi\'o de mensajes de texto en un tamaño m\'aximo de 280 caracteres denominados tweets, los usuarios pueden subscribirse a los tweets de otros usuarios y hacerles seguimientos, esta acci\'on es conocida como seguidores o followers. Por defecto los mensajes son p\'ublicos y pueden contener la zona geogr\'afica de la persona que ha enviado el tweet.\\
+
+A continuaci\'on se muestra la estructura de un tweet:
+
+\begin{table}[H]
+
+\begin{center}
+\begin{tabular}{ |p{2cm}|p{2cm}|p{6cm}| }
+\hline
+\rowcolor{gray!40}  \textbf{Atributo}         & \textbf{Tipo}      & \textbf{Descripci\'on}   \\  \hline
+ created\_at   & String  & Hora de creaci\'on.        \\   \hline
+ Id                  & Int64   & Identificador del tweet.  \\   \hline
+ text                & String  & El mensaje de texto.  \\   \hline
+ source           & String  & Usado para postear un texto en HTML.  \\   \hline
+ user               & User    & Usuario que envia el mensaje de texto.  \\   \hline
+ Coordinates   & Coordinates   & Coordenadas de la localizaci\'on geogr\'afica.  \\   \hline
+ Retweeted     & Boolean   & Verifica si el mensaje ha sido reenviado.  \\   \hline
+ Lang               & String   & Idioma del mensaje.  \\   \hline
+\end{tabular}
+\caption{Estructura de un tweet obtenido de la Empresa Twitter}
+
+\end{center}
+\end{table}
+		
+	 	
+		
+		
+		
 
 
 
 \section{Data Mining}
 
-El Data Mining es un campo de la estad\'istica y las ciencias de la computaci\'on relacionado con el proceso de descubrir patrones en grandes vol\'umenes de conjuntos de datos. Utiliza m\'etodos de inteligencia artificial, aprendizaje autom\'atico, estad\'istica y sistemas de bases de datos \\
+El Data Mining es un campo de la estad\'istica y las ciencias de la computaci\'on relacionado con el proceso de descubrir patrones en grandes vol\'umenes de conjuntos de datos. Utiliza m\'etodos de inteligencia artificial, aprendizaje autom\'atico, estad\'istica y sistemas de bases de datos \\	
 
 La forma para aplicar Data Mining se basa en las siguientes etapas:
 
@@ -61,8 +88,13 @@ Es el uso del procesamiento del lenguaje natural, an\'alisis de texto y ling\"
 
 Seg\'un Medhat, las principales t\'ecnicas de an\'alisis de sentimiento se dividen en dos grandes grupos: las que se basan en aprendizaje autom\'atico (machine learning approach) y las que se basan en diccionarios (lexicon-based approach). \\
 
-La siguiente figura muestra las 2 técnicas:
+La siguiente figura muestra las 2 técnicas:\\
 
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.4]{chapters/img/Ch05_Medhat.PNG}
+\caption{Técnicas de An\'alisis de Sentimiento seg\'un Medat}
+\end{figure}
 
 Una vez mostrado los m\'etodos de an\'alisis, en la presente investigación se usará la estrategia de los algoritmos de aprendizaje automático que tiene relación con el campo de la informática y más en concreto, de la inteligencia artificial.
 

@@ -1,34 +1,46 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {spanish}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Introducci\'on}{2}% 
+\contentsline {chapter}{\numberline {1}Introducci\'on}{5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Justificaci\IeC {\'o}n de la investigaci\'on}{5}% 
+\contentsline {chapter}{\numberline {2}Justificaci\IeC {\'o}n de la investigaci\'on}{7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Objetivos de la investigaci\'on}{6}% 
+\contentsline {chapter}{\numberline {3}Objetivos de la investigaci\'on}{8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Objetivos Generales}{6}% 
+\contentsline {section}{\numberline {3.1}Objetivos Generales}{8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Objetivos Especificos}{6}% 
+\contentsline {section}{\numberline {3.2}Objetivos Especificos}{8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Formulaci\'on de hip\'otesis}{7}% 
+\contentsline {chapter}{\numberline {4}Formulaci\'on de hip\'otesis}{9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Marco Te\'orico}{8}% 
+\contentsline {chapter}{\numberline {5}Marco Te\'orico}{10}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Twitter}{8}% 
+\contentsline {section}{\numberline {5.1}Twitter}{10}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Data Mining}{8}% 
+\contentsline {section}{\numberline {5.2}Data Mining}{11}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Text Mining}{9}% 
+\contentsline {section}{\numberline {5.3}Text Mining}{12}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}An\'alisis de Sentimiento}{10}% 
+\contentsline {section}{\numberline {5.4}An\'alisis de Sentimiento}{13}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.1}T\'ecnicas de An\'alisis de Sentimiento}{10}% 
+\contentsline {subsection}{\numberline {5.4.1}T\'ecnicas de An\'alisis de Sentimiento}{13}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Metodolog\'ia}{11}% 
+\contentsline {chapter}{\numberline {6}Metodolog\'ia}{15}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Cronograma}{12}% 
+\contentsline {section}{\numberline {6.1}Entender el negocio}{16}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Presupuesto}{13}% 
+\contentsline {section}{\numberline {6.2}Entender los datos}{17}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Colaboradores}{14}% 
+\contentsline {section}{\numberline {6.3}Preparar los datos}{17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}Modelar}{17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.5}Evaluar}{17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.6}Desplegar}{17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Cronograma}{18}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Presupuesto}{19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Colaboradores}{21}% 
