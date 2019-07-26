@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.19)  20 JUL 2019 01:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.19)  23 JUL 2019 14:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -299,20 +299,10 @@ Package biblatex Info: ... file 'blx-compat.def' found.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 )
-Package biblatex Info: Trying to load BibTeX backend compatibility...
-Package biblatex Info: ... file 'blx-bibtex.def' found.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-bibtex.def
-File: blx-bibtex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
-
-
-Package biblatex Warning: Using fall-back BibTeX(8) backend:
-(biblatex)                functionality may be reduced/unavailable.
-
-)
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.def
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 \c@textcitecount=\count272
 \c@textcitetotal=\count273
@@ -691,28 +681,28 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 \@quotelevel=\count304
 \@quotereset=\count305
 (./Thesis.aux (./includes/cover.aux)
-LaTeX Info: Redefining \sptext on input line 14.
-LaTeX Info: Redefining \. on input line 14.
-LaTeX Info: Redefining \% on input line 14.
+LaTeX Info: Redefining \sptext on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
  (./chapters/1_0_introduction.aux)
 (./chapters/2_0_justification.aux) (./chapters/3_0_objectives.aux)
 (./chapters/4_0_hyphotesis.aux) (./chapters/5_0_background.aux)
 (./chapters/6_0_methodogy.aux) (./chapters/7_0_schedule.aux)
-(./chapters/8_0_budget.aux) (./chapters/9_0_collaborators.aux))
+(./chapters/8_0_budget.aux) (./chapters/10_0_bibliography.aux))
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -747,24 +737,21 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \sptext on input line 19.
-LaTeX Info: Redefining \. on input line 19.
-LaTeX Info: Redefining \% on input line 19.
+LaTeX Info: Redefining \sptext on input line 20.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: Input encoding 'utf8' specified.
-Package biblatex Info: Data encoding 'utf8' specified.
-(biblatex)             No need to reencode data.
-\openout3 = `Thesis-blx.bib'.
+\openout3 = `Thesis.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Thesis.bbl' not found.
+Package biblatex Info: ... file 'Thesis.bbl' found.
 
-No file Thesis.bbl.
-Package biblatex Info: Reference section=0 on input line 19.
-Package biblatex Info: Reference segment=0 on input line 19.
-ABD: EveryShipout initializing macros
+(./Thesis.bbl)
+Package biblatex Info: Reference section=0 on input line 20.
+Package biblatex Info: Reference segment=0 on input line 20.
+ ABD: EveryShipout initializing macros
 \openout2 = `includes/cover.aux'.
 
  (./includes/cover.tex
@@ -791,14 +778,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 10.
- [1
-
-
-])
+)
 \tf@toc=\write5
 \openout5 = `Thesis.toc'.
 
- [2] (./Thesis.lof
+ [1
+
+
+] (./Thesis.lof
 LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
@@ -806,10 +793,9 @@ LaTeX Info: Redefining \% on input line 2.
 \tf@lof=\write6
 \openout6 = `Thesis.lof'.
 
- [3
+ [2
 
-]
-(./Thesis.lot
+] (./Thesis.lot
 LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
@@ -817,7 +803,7 @@ LaTeX Info: Redefining \% on input line 2.
 \tf@lot=\write7
 \openout7 = `Thesis.lot'.
 
- [4
+ [3
 
 ]
 \openout2 = `chapters/1_0_introduction.aux'.
@@ -839,24 +825,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
-[5
+[4
 
 
 ]
-<chapters/img/Ch01_UsoRedesSocialesLima.PNG, id=29, 326.72063pt x 283.0575pt>
+<chapters/img/Ch01_UsoRedesSocialesLima.PNG, id=26, 326.72063pt x 283.0575pt>
 File: chapters/img/Ch01_UsoRedesSocialesLima.PNG Graphic file (type png)
 <use chapters/img/Ch01_UsoRedesSocialesLima.PNG>
 Package pdftex.def Info: chapters/img/Ch01_UsoRedesSocialesLima.PNG  used on in
 put line 24.
 (pdftex.def)             Requested size: 228.70287pt x 198.13889pt.
-<chapters/img/Ch01_UsoRedesSocialesGeneracion.PNG, id=31, 681.29532pt x 251.439
+<chapters/img/Ch01_UsoRedesSocialesGeneracion.PNG, id=28, 681.29532pt x 251.439
 38pt>
 File: chapters/img/Ch01_UsoRedesSocialesGeneracion.PNG Graphic file (type png)
 <use chapters/img/Ch01_UsoRedesSocialesGeneracion.PNG>
 Package pdftex.def Info: chapters/img/Ch01_UsoRedesSocialesGeneracion.PNG  used
  on input line 34.
 (pdftex.def)             Requested size: 340.64682pt x 125.71938pt.
- [6 <./chapters/img/Ch01_UsoRedesSocialesLima.PNG> <./chapters/img/Ch01_UsoRede
+ [5 <./chapters/img/Ch01_UsoRedesSocialesLima.PNG> <./chapters/img/Ch01_UsoRede
 sSocialesGeneracion.PNG>])
 \openout2 = `chapters/2_0_justification.aux'.
 
@@ -872,7 +858,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--11
 
  []
 
-[7
+[6
 
 
 
@@ -882,7 +868,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--11
 
  (./chapters/3_0_objectives.tex
 Cap\'{\i }tulo 3.
-[8
+[7
 
 
 
@@ -892,7 +878,7 @@ Cap\'{\i }tulo 3.
 
  (./chapters/4_0_hyphotesis.tex
 Cap\'{\i }tulo 4.
-[9
+[8
 
 
 
@@ -922,7 +908,7 @@ Underfull \hbox (badness 1005) in paragraph at lines 25--25
 []|\OT1/cmr/m/n/12 Coordenadas de la lo-ca-li-za-ci^^Son
  []
 
-[10
+[9
 
 
 
@@ -937,18 +923,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
-[11]
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
-
-Overfull \hbox (9.72224pt too wide) in paragraph at lines 85--86
-[]\OT1/cmr/m/n/12 Es el uso del pro-ce-sa-mien-to del len-gua-je na-tu-ral, an^
-^Sali-sis de tex-to y ling^^?a^^S^^Psti-
- []
-
-[12]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
@@ -958,12 +938,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
-<chapters/img/Ch05_Medhat.PNG, id=57, 832.10875pt x 546.04pt>
+<chapters/img/Ch05_Medhat.PNG, id=53, 832.10875pt x 546.04pt>
 File: chapters/img/Ch05_Medhat.PNG Graphic file (type png)
 <use chapters/img/Ch05_Medhat.PNG>
 Package pdftex.def Info: chapters/img/Ch05_Medhat.PNG  used on input line 95.
 (pdftex.def)             Requested size: 332.8376pt x 218.41212pt.
-[13 <./chapters/img/Ch05_Medhat.PNG>] [14])
+[12 <./chapters/img/Ch05_Medhat.PNG>] [13])
 \openout2 = `chapters/6_0_methodogy.aux'.
 
  (./chapters/6_0_methodogy.tex
@@ -973,22 +953,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-<chapters/img/Ch06_CRISP.PNG, id=65, 671.50874pt x 652.4375pt>
+<chapters/img/Ch06_CRISP.PNG, id=62, 671.50874pt x 652.4375pt>
 File: chapters/img/Ch06_CRISP.PNG Graphic file (type png)
 <use chapters/img/Ch06_CRISP.PNG>
 Package pdftex.def Info: chapters/img/Ch06_CRISP.PNG  used on input line 12.
 (pdftex.def)             Requested size: 268.59874pt x 260.97037pt.
-[15
+[14
 
 
 
 
-] [16 <./chapters/img/Ch06_CRISP.PNG>]) [17]
+] [15 <./chapters/img/Ch06_CRISP.PNG>]) [16]
 \openout2 = `chapters/7_0_schedule.aux'.
 
  (./chapters/7_0_schedule.tex
 Cap\'{\i }tulo 7.
-<chapters/img/Ch07_schedule.PNG, id=76, 963.6pt x 511.9125pt>
+<chapters/img/Ch07_schedule.PNG, id=73, 963.6pt x 511.9125pt>
 File: chapters/img/Ch07_schedule.PNG Graphic file (type png)
 <use chapters/img/Ch07_schedule.PNG>
 Package pdftex.def Info: chapters/img/Ch07_schedule.PNG  used on input line 8.
@@ -998,7 +978,7 @@ Overfull \hbox (43.616pt too wide) in paragraph at lines 8--9
  [][] 
  []
 
-[18
+[17
 
 
 
@@ -1050,40 +1030,116 @@ Overfull \hbox (49.39894pt too wide) in paragraph at lines 9--22
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[19
+[18
 
 
 
 
-] [20])
-\openout2 = `chapters/9_0_collaborators.aux'.
+] [19])
+\openout2 = `chapters/10_0_bibliography.aux'.
 
- (./chapters/9_0_collaborators.tex
-Cap\'{\i }tulo 9.
-[21
-
-
-
-
-])
-
-LaTeX Warning: Empty bibliography on input line 37.
+ (./chapters/10_0_bibliography.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--10
+[]\OT1/cmr/m/n/12 Mois^^Ses Na^^S^^Pm. \OT1/cmr/m/it/12 Ni Fa-ce-book, ni Twit-
+ter: son los fu-si-les
+ []
 
 
-Package biblatex Warning: Type 'article' not found on input line 42.
+Overfull \hbox (25.93262pt too wide) in paragraph at lines 7--10
+\OT1/cmr/m/n/12 https://elpais.com/diario/2011/02/27/internacional/1298761206[]
+850215.html
+ []
 
 
-LaTeX Warning: Empty bibliography on input line 42.
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+[]\OT1/cmr/m/n/12 CPI : Com-pa~nia Pe-rua-na de Es-tu-dios de Mer-ca-do y
+ []
 
-(./Thesis.aux (./includes/cover.aux)
-LaTeX Info: Redefining \sptext on input line 14.
-LaTeX Info: Redefining \. on input line 14.
-LaTeX Info: Redefining \% on input line 14.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+\OT1/cmr/m/n/12 Opi-ni^^Son P^^Subli-ca s.a.c.. \OT1/cmr/m/it/12 Mar-ket Re-por
+t : Li-ma Di-gi-tal
+ []
+
+
+Overfull \hbox (28.47011pt too wide) in paragraph at lines 17--20
+\OT1/cmr/m/n/12 http://cpi.pe/images/upload/paginaweb/archivo/26/MR[]Limadigita
+l2018.pdf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
+[]\OT1/cmr/m/n/12 INEI \OT1/cmr/m/it/12 Una mi-ra-da a Li-ma Me-tro-po-li-ta-na
+
+ []
+
+
+Overfull \hbox (114.40533pt too wide) in paragraph at lines 28--31
+\OT1/cmr/m/n/12 https://www.inei.gob.pe/media/MenuRecursivo/publicaciones[]digi
+tales/Est/Lib1168/libro.pdf
+ []
+
+[20
+
+
+
+
+]
+Underfull \hbox (badness 3460) in paragraph at lines 59--63
+[]\OT1/cmr/m/n/12 Abid Hus-sain , Ra-vi K. Va-tra-pu \OT1/cmr/m/it/12 So-cial D
+a-ta Analy-tics Tool\OT1/cmr/m/n/12 .
+ []
+
+
+Overfull \hbox (104.26569pt too wide) in paragraph at lines 59--63
+\OT1/cmr/m/n/12 https://www.researchgate.net/publication/295257564[]Social[]Dat
+a[]Analytics[]Tool[]SODATO.
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 65--69
+[]\OT1/cmr/m/n/12 Niels Buus Las-sen, Ra-vi Va-tra-pu, Lis-beth la Cour, Re-ne 
+Mad-
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 65--69
+\OT1/cmr/m/n/12 sen, and Abid Hus-sain \OT1/cmr/m/it/12 To-wards a Theory of So
+-cial Da-ta: Pre-
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 65--69
+\OT1/cmr/m/it/12 dic-ti-ve Analy-tics in the Era of Big So-cial Da-ta\OT1/cmr/m
+/n/12 . https://research-
+ []
+
+
+Overfull \hbox (214.8706pt too wide) in paragraph at lines 65--69
+\OT1/cmr/m/n/12 api.cbs.dk/ws/portalfiles/portal/55458783/niels[]buss[]lassen[]
+towards[]a[]theory[]of[]social[]data[]publishersversion.pdf.
+ []
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 71--75
+[]\OT1/cmr/m/n/12 Zahra Iman, Scott San-ner, Moha-med Re-da Bouad-je-nek, Le-
+ []
+
+
+Overfull \hbox (88.26031pt too wide) in paragraph at lines 71--75
+\OT1/cmr/m/n/12 https://www.aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/download
+/15625/14852.
+ []
+
+) [21] (./Thesis.aux (./includes/cover.aux)
+LaTeX Info: Redefining \sptext on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
  (./chapters/1_0_introduction.aux)
 (./chapters/2_0_justification.aux) (./chapters/3_0_objectives.aux)
 (./chapters/4_0_hyphotesis.aux) (./chapters/5_0_background.aux)
 (./chapters/6_0_methodogy.aux) (./chapters/7_0_schedule.aux)
-(./chapters/8_0_budget.aux) (./chapters/9_0_collaborators.aux))
+(./chapters/8_0_budget.aux) (./chapters/10_0_bibliography.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1092,18 +1148,18 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19534 strings out of 492616
- 381342 string characters out of 6129481
- 633039 words of memory out of 5000000
- 23055 multiletter control sequences out of 15000+600000
- 10057 words of font info for 35 fonts, out of 8000000 for 9000
+ 19502 strings out of 492616
+ 380446 string characters out of 6129481
+ 813435 words of memory out of 5000000
+ 23025 multiletter control sequences out of 15000+600000
+ 10404 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,48p,812b,1922s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,48p,812b,1852s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Thesis.pdf (22 pages, 549215 bytes).
+Output written on Thesis.pdf (22 pages, 562524 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  66 compressed objects within 1 object stream

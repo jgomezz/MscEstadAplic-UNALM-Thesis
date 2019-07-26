@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.19)  20 JUL 2019 08:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.19)  20 JUL 2019 09:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -782,7 +782,10 @@ Package datetime2 Warning: Region `en-US' has ignored
 (datetime2)                showdayofmonth=false
  on input line 13.
 
-No file Presentation.aux.
+(./Presentation.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+)
 \openout1 = `Presentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
@@ -799,6 +802,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
 LaTeX Font Info:    ... okay on input line 50.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
 LaTeX Font Info:    ... okay on input line 50.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -878,6 +882,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 50.
 LaTeX Info: Redefining \pageref on input line 50.
 LaTeX Info: Redefining \nameref on input line 50.
+
+(./Presentation.out) (./Presentation.out)
 \@outlinefile=\write5
 \openout5 = `Presentation.out'.
 
@@ -961,12 +967,9 @@ Dictionary: translator-theorem-dictionary, Language: English
 LaTeX Info: Redefining \. on input line 50.
 LaTeX Info: Redefining \% on input line 50.
 \c@lstlisting=\count183
+ (./Presentation.nav) [1
 
-No file Presentation.nav.
-[1
-
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 ] [3
 
@@ -977,7 +980,7 @@ No file Presentation.nav.
 ] [6
 
 ]
-<../chapters/img/Ch04_MM.PNG, id=215, 661.47125pt x 381.425pt>
+<../chapters/img/Ch04_MM.PNG, id=217, 661.47125pt x 381.425pt>
 File: ../chapters/img/Ch04_MM.PNG Graphic file (type png)
 <use ../chapters/img/Ch04_MM.PNG>
 Package pdftex.def Info: ../chapters/img/Ch04_MM.PNG  used on input line 117.
@@ -985,7 +988,7 @@ Package pdftex.def Info: ../chapters/img/Ch04_MM.PNG  used on input line 117.
  [7
 
  <../chapters/img/Ch04_MM.PNG>]
-<../chapters/img/Ch06_CRISP.PNG, id=247, 671.50874pt x 652.4375pt>
+<../chapters/img/Ch06_CRISP.PNG, id=249, 671.50874pt x 652.4375pt>
 File: ../chapters/img/Ch06_CRISP.PNG Graphic file (type png)
 <use ../chapters/img/Ch06_CRISP.PNG>
 Package pdftex.def Info: ../chapters/img/Ch06_CRISP.PNG  used on input line 128
@@ -994,7 +997,7 @@ Package pdftex.def Info: ../chapters/img/Ch06_CRISP.PNG  used on input line 128
  [8
 
  <../chapters/img/Ch06_CRISP.PNG>]
-<../chapters/img/Ch07_schedule.PNG, id=278, 963.6pt x 511.9125pt>
+<../chapters/img/Ch07_schedule.PNG, id=279, 963.6pt x 511.9125pt>
 File: ../chapters/img/Ch07_schedule.PNG Graphic file (type png)
 <use ../chapters/img/Ch07_schedule.PNG>
 Package pdftex.def Info: ../chapters/img/Ch07_schedule.PNG  used on input line 
@@ -1020,21 +1023,14 @@ LaTeX Info: Redefining \% on input line 23.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
-
-
-Package rerunfilecheck Warning: File `Presentation.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Presentation.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `Presentation.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22597 strings out of 492616
- 431392 string characters out of 6129481
- 520757 words of memory out of 5000000
- 26053 multiletter control sequences out of 15000+600000
+ 22628 strings out of 492616
+ 431703 string characters out of 6129481
+ 520944 words of memory out of 5000000
+ 26076 multiletter control sequences out of 15000+600000
  6345 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,59p,809b,574s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1042,7 +1038,7 @@ Here is how much of TeX's memory you used:
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
 >
-Output written on Presentation.pdf (9 pages, 240201 bytes).
+Output written on Presentation.pdf (9 pages, 240329 bytes).
 PDF statistics:
  326 PDF objects out of 1000 (max. 8388607)
  273 compressed objects within 3 object streams

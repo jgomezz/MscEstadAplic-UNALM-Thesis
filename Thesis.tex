@@ -3,7 +3,8 @@
 \usepackage{graphicx}
 \usepackage[dvipsnames]{xcolor}
 \usepackage[spanish]{babel} 
-\usepackage[backend=bibtex]{biblatex}
+\usepackage{biblatex}
+%\usepackage[style=numeric]{biblatex}
 \usepackage{tikz}
 \usetikzlibrary{calc}
 
@@ -14,7 +15,7 @@
 \usepackage{color}
 \usepackage{float}
 
-\addbibresource{includes/bibliography.bib}
+%\addbibresource{includes/bibliography.bib}
 
 \begin{document}
 
@@ -32,13 +33,20 @@
 \include{chapters/6_0_methodogy}
 \include{chapters/7_0_schedule}
 \include{chapters/8_0_budget}
-\include{chapters/9_0_collaborators}
+%\include{chapters/9_0_collaborators}
 
-\printbibliography[
-heading=bibintoc,
-title={Bibliograf\'ia}
-]
+%\printbibliography[
+%heading=bibintoc,
+%title={Bibliograf\'ia}
+%]
 
-\printbibliography[heading=subbibintoc,type=article,title={Articles only}]
+%\printbibliography
+
+%\printbibliography[heading=subbibintoc,type=article,title={Articles only}]
+
+% \chapter{Bibliograf\'ia}
+
+\include{chapters/10_0_bibliography}
+
 
 \end{document}
